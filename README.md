@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,SASS, Spring Boot, Angular, JavaScript, API, Java**
 
-- 💬 Ask me about **Java, Angular** <div align='rigth'> <img src=''></div>
+- 💬 Ask me about **Java, Angular**
 
 - 📫 How to reach me **ouattarapevirgile@gmail.com**
 
