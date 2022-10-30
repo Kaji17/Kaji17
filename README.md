@@ -2,7 +2,7 @@
   <img  src='https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif' alt='peicture-web developpeur'>
 </div>
 <h1 align="center">Hi 👋, I'm 👨‍💻Ouattara katina</h1>
-<h3 align="center">I'm passionate about the web developpement, especially back-end development</h3>
+<h3 align="center">I'm in 3rd-year at University Polytchenique of Bingervillepassionate in Ivory Coast, I'm passionnate about the web developpement, especially back-end development. I like Basket-ball 🏀 and trading (T_T) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaji17&label=Profile%20views&color=0e75b6&style=flat" alt="kaji17" /> </p>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/katina-p%C3%AA-virgile-ouattara-62289a203/" target="blank"><img src="https://img.shields.io/twitter/follow/pevirgile?logo=twitter&style=for-the-badge" alt="pevirgile" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap,SASS, Spring Boot, Angular, JavaScript, API, Java**
+- 🌱 I’m currently Studing to **Becoming** Software developper graduate Licence
 
 - 💬 Ask me about **Java, Angular**
 
