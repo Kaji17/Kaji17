@@ -1,4 +1,4 @@
-<img src='https://www.pc15.fr/images/developpeur.gif' alt='peicture-web developpeur'>
+<img heigth='100px' src='https://www.pc15.fr/images/developpeur.gif' alt='peicture-web developpeur'>
 <h1 align="center">Hi 👋, I'm 👨‍💻Ouattara katina</h1>
 <h3 align="center">I'm passionate about the web developpement, especially back-end development</h3>
 
