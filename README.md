@@ -1,5 +1,5 @@
 <div align='center' heigth='70'>
-  <img  src='https://media-exp1.licdn.com/dms/image/D4E16AQEAOVU50NRjUQ/profile-displaybackgroundimage-shrink_350_1400/0/1664984298531?e=1672876800&v=beta&t=WoYyHWd7TUGLyJIvPvLvZcdSFCKdItrAQ64VCDhlmP4' alt='peicture-web developpeur'>
+  <img  src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fadcy.io%2Fviewing-a-gif-in-microsoft-teams-allows-hackers-to-takeover-accounts%2F&psig=AOvVaw3lU-beZ4_mAKQy4OHT0ZSo&ust=1667230206135000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC0ltyiiPsCFQAAAAAdAAAAABAD' alt='peicture-web developpeur'>
 </div>
 <h1 align="center">Hi 👋, I'm 👨‍💻Ouattara katina</h1>
 <h3 align="center">I'm passionate about the web developpement, especially back-end development</h3>
