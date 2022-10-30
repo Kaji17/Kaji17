@@ -6,12 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaji17&label=Profile%20views&color=0e75b6&style=flat" alt="kaji17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pevirgile" target="blank"><img src="https://img.shields.io/twitter/follow/pevirgile?logo=twitter&style=for-the-badge" alt="pevirgile" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pevirgile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/katina-p%C3%AA-virgile-ouattara-62289a203/" target="blank"><img src="https://img.shields.io/twitter/follow/pevirgile?logo=twitter&style=for-the-badge" alt="pevirgile" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap,SASS, Spring Boot, Angular, JavaScript, API, Java**
-![programmer](https://user-images.githubusercontent.com/112895450/198887409-9b0b60f3-a633-449c-9802-c78e14941159.gif)
 
-- 💬 Ask me about **Java, Angular**
+- 💬 Ask me about **Java, Angular** <div align='rigth'> <img src=''></div>
 
 - 📫 How to reach me **ouattarapevirgile@gmail.com**
 
