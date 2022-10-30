@@ -1,6 +1,6 @@
+<p align="center">https://www.pc15.fr/images/developpeur.gif</p>
 <h1 align="center">Hi 👋, I'm 👨‍💻Ouattara katina</h1>
 <h3 align="center">I'm passionate about the web developpement, especially back-end development</h3>
-<p align="center"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaji17&label=Profile%20views&color=0e75b6&style=flat" alt="kaji17" /> </p>
 
