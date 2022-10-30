@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://twitter.com/pevirgile" target="blank"><img src="https://img.shields.io/twitter/follow/pevirgile?logo=twitter&style=for-the-badge" alt="pevirgile" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap,SASS, Spring Boot, Angular, JavaScript, API, Java**
+![programmer](https://user-images.githubusercontent.com/112895450/198887409-9b0b60f3-a633-449c-9802-c78e14941159.gif)
 
 - 💬 Ask me about **Java, Angular**
 
